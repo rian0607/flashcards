@@ -15,7 +15,10 @@ display: flex;
  flex-basis: calc(33% - 6rem);
 }
 
-
+.cartao__conteudo{
+    text-align: center;
+    background-color: aquamarine;
+}
 
 
 
